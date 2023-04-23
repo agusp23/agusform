@@ -73,8 +73,8 @@ select, option{
 
 #opinion{
     height: 150px;
-    width: 600px;
-    resize: none;
+    width: 100%;
+    resize: vertical;
     margin: auto;
     border-radius: 4px;
 }
@@ -82,7 +82,7 @@ select, option{
 #submit{
     background-color: rgb(31, 169, 135);
     border-color: rgb(31, 169, 135);
-    width:  600px;
+    width:  100%;
     margin-left: 20px;
     margin-right: 20px;
 }
